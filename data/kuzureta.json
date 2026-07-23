@@ -1,0 +1,17 @@
+{
+    "id": 76902724,
+    "name": "Kuzureta",
+    "author": "Teno",
+    "creators": [],
+    "verifier": "Cric2",
+    "verification": "https://www.youtube.com/watch?v=K4urh5vxplU",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Reeas",
+            "link": "https://www.youtube.com/watch?v=wyUgb-i1j04",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
+}
