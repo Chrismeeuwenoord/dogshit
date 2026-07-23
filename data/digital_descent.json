@@ -1,0 +1,17 @@
+{
+    "id": 76902724,
+    "name": "Digital Descent",
+    "author": "ViPriN",
+    "creators": [],
+    "verifier": "Druttsky",
+    "verification": "https://www.youtube.com/watch?v=lNsCv9Uiqm0",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Lenninomaly",
+            "link": "https://www.youtube.com/watch?v=v4jBE7i_83w",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
+}
