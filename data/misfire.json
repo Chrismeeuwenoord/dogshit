@@ -1,0 +1,29 @@
+{
+    "id": 76902724,
+    "name": "MISFIRE",
+    "author": "Galaxxyss",
+    "creators": [],
+    "verifier": "IlyasGamesGD",
+    "verification": "https://www.youtube.com/watch?v=kWmlLn0uRak",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=T8sGoNkvLvs",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "Skycloud",
+            "link": "https://www.youtube.com/watch?v=lK9yWL20VuE",
+            "percent": 100,
+            "hz": "540"
+        },
+      {
+            "user": "Blu",
+            "link": "https://www.youtube.com/watch?v=Qpp-JP7oavM",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
+}
