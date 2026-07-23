@@ -51,7 +51,7 @@ header {
     padding-inline: calc(25vw - 10rem);
     height: 4rem;
     background-color: #D411D6/*var(--color-primary)*/;
-    color: var(--color-on-primary);
+    color: #D411D6/*var(--color-on-primary)*/;
 }
 @media screen and (min-width: 1366px) {
     header {
