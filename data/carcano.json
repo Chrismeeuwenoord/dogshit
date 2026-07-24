@@ -1,0 +1,41 @@
+{
+    "id": 76902724,
+    "name": "Carcano",
+    "author": "Asuith",
+    "creators": [],
+    "verifier": "Cric2",
+    "verification": "https://www.youtube.com/watch?v=ys5ATC3QEac",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "ilyasgamesgd",
+            "link": "https://www.youtube.com/watch?v=FfDKy10MkzU",
+            "percent": 100,
+            "hz": "N/A"
+        },
+      {
+            "user": "Banon",
+            "link": "https://www.youtube.com/watch?v=FfDKy10MkzU",
+            "percent": 100,
+            "hz": "N/A"
+        },
+      {
+            "user": "Matthijsgd",
+            "link": "https://www.youtube.com/watch?v=kIitrGZqfdc&t=42s",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "reeas",
+            "link": "https://www.youtube.com/watch?v=u1yki4xKY50",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "Neon",
+            "link": "https://www.youtube.com/watch?v=Hhy3Nt2JD0Q",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
+}
