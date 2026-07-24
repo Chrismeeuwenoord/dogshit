@@ -1,0 +1,23 @@
+{
+    "id": 76902724,
+    "name": "Athanatos",
+    "author": "IIExinityII",
+    "creators": [],
+    "verifier": "Druski",
+    "verification": "https://www.youtube.com/watch?v=nMIIxY0t_RU",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=PvyoAIYnrmE",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "Skycloud",
+            "link": "https://www.youtube.com/watch?v=ZgZt9RlgdpY",
+            "percent": 100,
+            "hz": "N/A"
+        }
+    ]
+}
