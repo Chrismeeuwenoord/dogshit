@@ -1,0 +1,41 @@
+{
+    "id": 76902724,
+    "name": "RASH",
+    "author": "Loltad",
+    "creators": [],
+    "verifier": "Lenninomaly",
+    "verification": "https://www.youtube.com/watch?v=VSW7gYB-xzo",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Druski",
+            "link": "https://www.youtube.com/watch?v=XVTyLsRL_Co",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "Banon",
+            "link": "https://www.youtube.com/watch?v=f3aBhJT2nwg",
+            "percent": 100,
+            "hz": "N/A"
+        },
+      {
+            "user": "Matthijsgd",
+            "link": "https://www.youtube.com/watch?v=iVSTYeQGdU8",
+            "percent": 100,
+            "hz": "480"
+        },
+      {
+            "user": "ilyasgamesgd",
+            "link": "https://www.youtube.com/watch?v=F1cvyNTtK64",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=hc9JhGe0N6E",
+            "percent": 100,
+            "hz": "120"
+        }
+    ]
+}
