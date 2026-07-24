@@ -1,0 +1,53 @@
+{
+    "id": 76902724,
+    "name": "Bloodbath",
+    "author": "Riot",
+    "creators": [],
+    "verifier": "Cric2",
+    "verification": "https://www.youtube.com/watch?v=Dg5ptpsUL4U",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "ilyasgamesgd",
+            "link": "https://www.youtube.com/watch?v=y3cvKK9wDUw",
+            "percent": 100,
+            "hz": "N/A"
+        },
+      {
+            "user": "SkyCloudGD31",
+            "link": "https://www.youtube.com/watch?v=y3cvKK9wDUw",
+            "percent": 100,
+            "hz": "N/A"
+        },
+      {
+            "user": "Lenninomaly",
+            "link": "https://www.youtube.com/watch?v=IaIBd4dLL-s",
+            "percent": 100,
+            "hz": "288"
+        },
+      {
+            "user": "Matthijsgd",
+            "link": "https://www.youtube.com/watch?v=XzO5rivYK9s&t=4s",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "Neon",
+            "link": "https://www.youtube.com/watch?v=y3cvKK9wDUw",
+            "percent": 100,
+            "hz": "N/A"
+        },
+      {
+            "user": "reeas",
+            "link": "https://www.youtube.com/watch?v=y3cvKK9wDUw",
+            "percent": 100,
+            "hz": "N/A"
+        },
+      {
+            "user": "Druski",
+            "link": "https://www.youtube.com/watch?v=aCUPC8Ev6mg",
+            "percent": 100,
+            "hz": "480"
+        }
+    ]
+}
