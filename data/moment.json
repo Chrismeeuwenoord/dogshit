@@ -1,0 +1,47 @@
+{
+    "id": 76902724,
+    "name": "Moment",
+    "author": "Lexycat",
+    "creators": [],
+    "verifier": "Cric2",
+    "verification": "https://www.youtube.com/watch?v=PIUynXvbU2M",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "ilyasgamesgd",
+            "link": "https://www.youtube.com/watch?v=1wRuWYQH3RQ",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "SkyCloudGD31",
+            "link": "https://www.youtube.com/watch?v=rWY1gHTGAvs",
+            "percent": 100,
+            "hz": "N/A"
+        },
+      {
+            "user": "Neon",
+            "link": "https://www.youtube.com/watch?v=rWY1gHTGAvs",
+            "percent": 100,
+            "hz": "N/A"
+        },
+      {
+            "user": "Banon",
+            "link": "https://www.youtube.com/watch?v=AIqRr37Y0sA",
+            "percent": 100,
+            "hz": "144"
+        },
+      {
+            "user": "reeas",
+            "link": "https://www.youtube.com/watch?v=yO1oUxbhkgM",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "Poros",
+            "link": "https://www.youtube.com/watch?v=D8570FFwWfg",
+            "percent": 100,
+            "hz": "480"
+        }
+    ]
+}
