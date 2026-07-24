@@ -1,42 +1,72 @@
 [
     {
-        "role": "owner",
-        "name": "YraX",
+        "role": "helper",
+        "name": "bluzy",
         "link": "https://www.youtube.com/channel/UCxBJglnfiP0ETbJl1GVtYbA"
     },
     {
         "role": "helper",
-        "name": "Sliced",
+        "name": "Blu",
         "link": "https://www.youtube.com/channel/UCrJC-w_8hFYZO_pG-NkAOzw"
     },
     {
         "role": "helper",
-        "name": "Grilled",
+        "name": "Cric2",
         "link": "https://www.youtube.com/channel/UCHurLPXMhy68ExCQ704yTgA"
     },
     {
         "role": "helper",
-        "name": "Swerp",
+        "name": "ilyasgamesgd",
         "link": "https://youtube.com/channel/UC5O6GNUMNkJUPenOQuPeWFA"
     },
         {
         "role": "helper",
-        "name": "Sometwo",
+        "name": "skycloud",
         "link": "https://www.youtube.com/channel/UCRafkOYLlEl-Hq_rjRp59TQ"
     },
             {
         "role": "helper",
-        "name": "Cric2",
+        "name": "Poros",
         "link": "https://www.youtube.com/channel/UCLi47DwFcHKUV1yYCmnBpvw/featured"
     },
     {
         "role": "helper",
-        "name": "wia",
+        "name": "Lenninomaly",
         "link": "https://youtube.com/channel/UCoC7IRwATfU63HM_f5FjIDw"
     },
     {
         "role": "helper",
-        "name": "pilot",
+        "name": "Waleed",
+        "link": "https://www.youtube.com/channel/UCc-mfzs_L6UNXbYXr3nnXsw"
+    },
+    {
+        "role": "helper",
+        "name": "LandronSC",
+        "link": "https://www.youtube.com/channel/UCc-mfzs_L6UNXbYXr3nnXsw"
+    },
+    {
+        "role": "helper",
+        "name": "Matthijsgd",
+        "link": "https://www.youtube.com/channel/UCc-mfzs_L6UNXbYXr3nnXsw"
+    },
+    {
+        "role": "helper",
+        "name": "Banon",
+        "link": "https://www.youtube.com/channel/UCc-mfzs_L6UNXbYXr3nnXsw"
+    },
+    {
+        "role": "helper",
+        "name": "reeas",
+        "link": "https://www.youtube.com/channel/UCc-mfzs_L6UNXbYXr3nnXsw"
+    },
+    {
+        "role": "helper",
+        "name": "neon",
+        "link": "https://www.youtube.com/channel/UCc-mfzs_L6UNXbYXr3nnXsw"
+    },
+    {
+        "role": "helper",
+        "name": "Druttsky",
         "link": "https://www.youtube.com/channel/UCc-mfzs_L6UNXbYXr3nnXsw"
     }
 ]
