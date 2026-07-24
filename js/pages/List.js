@@ -88,7 +88,7 @@ export default {
                         <p class="type-label-md">Original List by <a href="https://me.redlimerl.com/" target="_blank">RedLime</a></p>
                     </div>
                     <template v-if="editors">
-                        <h3>HCL Staff</h3>
+                        <h3>DSL Members</h3>
                         <ol class="editors">
                             <li v-for="editor in editors">
                                 <img :src="\`/assets/\${roleIconMap[editor.role]}\${store.dark ? '-dark' : ''}.svg\`" :alt="editor.role">
