@@ -1,0 +1,42 @@
+{
+    "id": 76902724,
+    "name": "Blade of Justice",
+    "author": "Manix648",
+    "creators": [],
+    "verifier": "Druski",
+    "verification": "https://www.youtube.com/watch?v=BuRp2TIpGLw",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "ilyasgamesgd",
+            "link": "https://www.youtube.com/watch?v=At8bF2pw-qk",
+            "percent": 100,
+            "hz": "N/A"
+        },
+      {
+            "user": "Matthijsgd",
+            "link": "https://www.youtube.com/watch?v=xp2rkYu43e0&t=127s",
+            "percent": 100,
+            "hz": "480"
+        },
+      {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=Nnq9ho30Dvc",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "Neon",
+            "link": "https://www.youtube.com/watch?v=At8bF2pw-qk",
+            "percent": 100,
+            "hz": "N/A"
+        },
+      {
+            "user": "reeas",
+            "link": "https://www.youtube.com/watch?v=6w6pY7O1PIU",
+            "percent": 100,
+            "hz": "240"
+        }
+      
+    ]
+}
