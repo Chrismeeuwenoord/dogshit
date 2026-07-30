@@ -1,0 +1,29 @@
+{
+    "id": 76902724,
+    "name": "Cupid",
+    "author": "vyp",
+    "creators": [],
+    "verifier": "Cric2",
+    "verification": "https://www.youtube.com/watch?v=kqzGYlfvpz4",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "ilyasgamesgd",
+            "link": "https://www.youtube.com/watch?v=62TrmUvQGjo",
+            "percent": 100,
+            "hz": "N/A"
+        },
+      {
+            "user": "reeas",
+            "link": "https://www.youtube.com/watch?v=zQfSIxY44BA",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "Banon",
+            "link": "https://www.youtube.com/watch?v=62TrmUvQGjo",
+            "percent": 100,
+            "hz": "N/A"
+        }
+    ]
+}
