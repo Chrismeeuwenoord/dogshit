@@ -1,0 +1,29 @@
+{
+    "id": 76902724,
+    "name": "Myocardia",
+    "author": "Toughfey",
+    "creators": [],
+    "verifier": "Blu",
+    "verification": "https://www.youtube.com/watch?v=b050oeeu7_s",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/@cric2gd16/search?query=myocardia",
+            "percent": 100,
+            "hz": "120"
+        },
+      {
+            "user": "Banon",
+            "link": "https://www.youtube.com/watch?v=-Av8_ss6cuU",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "bluzy",
+            "link": "https://www.youtube.com/@cric2gd16/search?query=myocardia",
+            "percent": 100,
+            "hz": "N/A"
+        }
+    ]
+}
