@@ -1,0 +1,35 @@
+{
+    "id": 76902724,
+    "name": "Crowd Control",
+    "author": "zDeadlox",
+    "creators": [],
+    "verifier": "Banon",
+    "verification": "https://www.youtube.com/watch?v=Rqa8x6c-ZNg",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=k0THhBN16Qw",
+            "percent": 100,
+            "hz": "120"
+        },
+      {
+            "user": "Druski",
+            "link": "https://www.youtube.com/watch?v=mZbsqZxgpPI",
+            "percent": 100,
+            "hz": "480"
+        },
+      {
+            "user": "ilyasgamesgd",
+            "link": "https://www.youtube.com/watch?v=inJ1LAVUM24",
+            "percent": 100,
+            "hz": "480"
+        },
+      {
+            "user": "bluzy",
+            "link": "https://www.youtube.com/watch?v=gyVxfpWGqRc",
+            "percent": 100,
+            "hz": "N/A"
+        }
+    ]
+}
