@@ -1,0 +1,23 @@
+{
+    "id": 76902724,
+    "name": "Elite Z Rebirth",
+    "author": "krmaL",
+    "creators": [],
+    "verifier": "ilyasgamesgd",
+    "verification": "https://www.youtube.com/watch?v=ez4cyNrivJg",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=1G1IWpE4tbk",
+            "percent": 100,
+            "hz": "120"
+        },
+      {
+            "user": "Druski",
+            "link": "https://www.youtube.com/watch?v=1a7E04x5cKo&list=PL8OACmd7Qv4nniYoRRnoZ_eDfX_oGP03s&index=26",
+            "percent": 100,
+            "hz": "hacking"
+        }
+    ]
+}
