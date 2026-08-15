@@ -8,6 +8,12 @@
     "percentToQualify": 100,
     "records": [
         {
+            "user": "Jolty",
+            "link": "https://www.youtube.com/watch?v=7mY5QzuDCmE&t=1s",
+            "percent": 100,
+            "hz": "144"
+        },
+        {
             "user": "Cric2",
             "link": "https://www.youtube.com/watch?v=QEd59sAeVNk",
             "percent": 100,
