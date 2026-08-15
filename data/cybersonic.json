@@ -4,14 +4,9 @@
     "author": "MinAY",
     "creators": [],
     "verifier": "Jolty",
-    "verification": "https://www.youtube.com/watch?v=tr9zV09cZ5g",
+    "verification": "https://www.youtube.com/watch?v=5XHmFqRe_FY&t=3s",
     "percentToQualify": 100,
     "records": [
-        {
-            "user": "Vreck",
-            "link": "https://www.youtube.com/watch?v=gt_B9RXSyGo",
-            "percent": 100,
-            "hz": "120"
-        }
+        
     ]
 }
