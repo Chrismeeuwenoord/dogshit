@@ -1,0 +1,23 @@
+{
+    "id": 76902724,
+    "name": "PLUS ULTRA",
+    "author": "Cancel",
+    "creators": [],
+    "verifier": "Cric2",
+    "verification": "https://www.youtube.com/watch?v=Vzx4wOx6o84",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "reeas",
+            "link": "https://www.youtube.com/watch?v=orIGF0O7Gpk",
+            "percent": 100,
+            "hz": "240"
+        },
+       {
+            "user": "ilyasgamesgd",
+            "link": "https://www.youtube.com/watch?v=G-4FDIOkz_4",
+            "percent": 100,
+            "hz": "N/A"
+        }
+    ]
+}
