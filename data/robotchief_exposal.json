@@ -1,0 +1,23 @@
+{
+    "id": 76902724,
+    "name": "Robotchief Exposal",
+    "author": "Madeliene",
+    "creators": [],
+    "verifier": "Matthijsgd",
+    "verification": "https://www.youtube.com/watch?v=_e3hBKh202w&t=724s",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "ilyasgamesgd",
+            "link": "https://www.youtube.com/watch?v=mKCVol2iWcc",
+            "percent": 100,
+            "hz": "N/A"
+        },
+      {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=3vjiN2RR28M",
+            "percent": 100,
+            "hz": "120"
+        }
+    ]
+}
