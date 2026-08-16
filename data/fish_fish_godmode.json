@@ -1,0 +1,35 @@
+{
+    "id": 76902724,
+    "name": "FISH FISH GODMODE",
+    "author": "whoiskeve",
+    "creators": [],
+    "verifier": "Matthijsgd",
+    "verification": "https://www.youtube.com/watch?v=k-lj5uKpw_A",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Banon",
+            "link": "https://www.youtube.com/watch?v=VdkMbUwBrWM",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "Poros",
+            "link": "https://www.youtube.com/watch?v=7HgWnlxcmOM",
+            "percent": 100,
+            "hz": "480"
+        },
+      {
+            "user": "neon",
+            "link": "https://www.youtube.com/watch?v=soC3id8ThiQ",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "ilyasgamesgd",
+            "link": "https://www.youtube.com/watch?v=YAgJ9XugGBo",
+            "percent": 100,
+            "hz": "N/A"
+        }
+    ]
+}
