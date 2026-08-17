@@ -1,0 +1,35 @@
+{
+    "id": 76902724,
+    "name": "Through The Decay",
+    "author": "sparktwo",
+    "creators": [],
+    "verifier": "Matthijsgd",
+    "verification": "https://www.youtube.com/watch?v=_cAlRy9R0g0&t=30s",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Banon",
+            "link": "https://www.youtube.com/watch?v=-Av8_ss6cuU&t=409s",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "neon",
+            "link": "https://www.youtube.com/watch?v=15UJZkxPPM0",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=exDK6OHkKG4",
+            "percent": 100,
+            "hz": "120"
+        },
+      {
+            "user": "ilyasgamesgd",
+            "link": "https://www.youtube.com/watch?v=RiVesAaFesE",
+            "percent": 100,
+            "hz": "N/A"
+        }
+    ]
+}
