@@ -1,0 +1,47 @@
+{
+    "id": 76902724,
+    "name": "Niwa",
+    "author": "Teno",
+    "creators": [],
+    "verifier": "Cric2",
+    "verification": "https://www.youtube.com/watch?v=x027fc7H710",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "ilyasgamesgd",
+            "link": "https://www.youtube.com/watch?v=TuB8nFTigPI",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "Druski",
+            "link": "https://www.youtube.com/watch?v=KjTPA9O1s5Q",
+            "percent": 100,
+            "hz": "480"
+        },
+      {
+            "user": "reeas",
+            "link": "https://www.youtube.com/watch?v=rJDflDHJqFA",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "Jolty246",
+            "link": "https://www.youtube.com/watch?v=nsXYUAMn1Os",
+            "percent": 100,
+            "hz": "144"
+        },
+      {
+            "user": "SkyCloudGD31",
+            "link": "https://www.youtube.com/shorts/u8UZHitZY5Q",
+            "percent": 100,
+            "hz": "N/A"
+        },
+      {
+            "user": "Banon",
+            "link": "https://www.youtube.com/shorts/u8UZHitZY5Q",
+            "percent": 100,
+            "hz": "N/A"
+        }
+    ]
+}
