@@ -1,0 +1,23 @@
+{
+    "id": 76902724,
+    "name": "Red World",
+    "author": "SaRy",
+    "creators": [],
+    "verifier": "ilyasgamesgd",
+    "verification": "https://youtu.be/n9-9R_F7pbo",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Druski",
+            "link": "https://www.youtube.com/watch?v=khjunyN2HFg",
+            "percent": 100,
+            "hz": "480"
+        },
+      {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=1Lcbq89Yl8k",
+            "percent": 100,
+            "hz": "120"
+        }
+    ]
+}
