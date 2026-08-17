@@ -1,0 +1,59 @@
+{
+    "id": 76902724,
+    "name": "Cataclysm",
+    "author": "Ggb0y",
+    "creators": [],
+    "verifier": "Cric2",
+    "verification": "https://www.youtube.com/watch?v=_MuQDquPMy8&t=2s",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Druski",
+            "link": "https://www.youtube.com/watch?v=54IKPIuNO2o",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "SkyCloudGD31",
+            "link": "https://www.youtube.com/watch?v=UvLvEh_xN5A",
+            "percent": 100,
+            "hz": "N/A"
+        },
+      {
+            "user": "Matthijsgd",
+            "link": "https://www.youtube.com/watch?v=WGSu3dcRY6U",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "Jolty246",
+            "link": "https://www.youtube.com/watch?v=7mY5QzuDCmE&t=2s",
+            "percent": 100,
+            "hz": "144"
+        },
+      {
+            "user": "neon",
+            "link": "https://www.youtube.com/watch?v=UvLvEh_xN5A",
+            "percent": 100,
+            "hz": "N/A"
+        },
+      {
+            "user": "Banon",
+            "link": "https://www.youtube.com/watch?v=-M84roSDeHc",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "ilyasgamesgd",
+            "link": "https://www.youtube.com/watch?v=UvLvEh_xN5A",
+            "percent": 100,
+            "hz": "N/A"
+        },
+      {
+            "user": "bluzy",
+            "link": "https://www.youtube.com/watch?v=UvLvEh_xN5A",
+            "percent": 100,
+            "hz": "N/A"
+        }
+    ]
+}
