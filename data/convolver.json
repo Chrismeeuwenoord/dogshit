@@ -1,0 +1,29 @@
+{
+    "id": 76902724,
+    "name": "CONVOLVER",
+    "author": "GoldSource",
+    "creators": [],
+    "verifier": "ilyasgamesgd",
+    "verification": "https://www.youtube.com/watch?v=qwa31LMeH_Y",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "SkyCloudGD31",
+            "link": "https://www.youtube.com/watch?v=qkwOLk1zno8",
+            "percent": 100,
+            "hz": "N/A"
+        },
+      {
+            "user": "Matthijsgd",
+            "link": "https://www.youtube.com/watch?v=TgXoQww2mgw&t=100s",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=ochKDhwjHyc",
+            "percent": 100,
+            "hz": "120"
+        }
+    ]
+}
