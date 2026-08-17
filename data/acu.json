@@ -1,0 +1,89 @@
+{
+    "id": 76902724,
+    "name": "Acu",
+    "author": "neigefeu",
+    "creators": [],
+    "verifier": "Cric2",
+    "verification": "https://www.youtube.com/watch?v=h28n9gFqSts",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Matthijsgd",
+            "link": "https://www.youtube.com/watch?v=14WDENK2Qtk&t=8s",
+            "percent": 100,
+            "hz": "360"
+        },
+      {
+            "user": "neon",
+            "link": "https://www.youtube.com/watch?v=6SjpeZPda-M",
+            "percent": 100,
+            "hz": "N/A"
+        },
+      {
+            "user": "LandronSC",
+            "link": "https://www.youtube.com/watch?v=6SjpeZPda-M",
+            "percent": 100,
+            "hz": "N/A"
+        },
+      {
+            "user": "Jolty246",
+            "link": "https://www.youtube.com/watch?v=bGOuaKsEiVM",
+            "percent": 100,
+            "hz": "144"
+        },
+      {
+            "user": "bluzy",
+            "link": "https://www.youtube.com/watch?v=6SjpeZPda-M",
+            "percent": 100,
+            "hz": "N/A"
+        },
+      {
+            "user": "Druski",
+            "link": "https://www.youtube.com/watch?v=0R4VqLgHinw",
+            "percent": 100,
+            "hz": "480"
+        },
+      {
+            "user": "Blu",
+            "link": "https://www.youtube.com/watch?v=RrxoWh3ihks",
+            "percent": 100,
+            "hz": "240"
+        },
+      {
+            "user": "Waleed",
+            "link": "https://www.youtube.com/watch?v=PzQOxT2T6cw",
+            "percent": 100,
+            "hz": "480"
+        },
+      {
+            "user": "Poros",
+            "link": "https://www.youtube.com/watch?v=auQpNT3W4jY",
+            "percent": 100,
+            "hz": "480"
+        },
+      {
+            "user": "SkyCloudGD31",
+            "link": "https://www.youtube.com/watch?v=6SjpeZPda-M",
+            "percent": 100,
+            "hz": "N/A"
+        },
+      {
+            "user": "ilyasgamesgd",
+            "link": "https://www.youtube.com/watch?v=6SjpeZPda-M",
+            "percent": 100,
+            "hz": "N/A"
+        },
+      {
+            "user": "Lenninomaly",
+            "link": "https://www.youtube.com/watch?v=6SjpeZPda-M",
+            "percent": 100,
+            "hz": "N/A"
+        },
+      {
+            "user": "reeas",
+            "link": "https://www.youtube.com/watch?v=6SjpeZPda-M",
+            "percent": 100,
+            "hz": "N/A"
+        }
+    ]
+}
