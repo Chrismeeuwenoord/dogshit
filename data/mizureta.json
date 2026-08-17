@@ -1,0 +1,29 @@
+{
+    "id": 76902724,
+    "name": "Mizureta",
+    "author": "dutchiee",
+    "creators": [],
+    "verifier": "Cric2",
+    "verification": "https://www.youtube.com/watch?v=LIjNgL2zW1o",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "ilyasgamesgd",
+            "link": "https://www.youtube.com/watch?v=YRzCNNlJsbw",
+            "percent": 100,
+            "hz": "480"
+        },
+      {
+            "user": "Jolty246",
+            "link": "https://www.youtube.com/watch?v=O-mHluVhzP4",
+            "percent": 100,
+            "hz": "144"
+        },
+      {
+            "user": "reeas",
+            "link": "https://www.youtube.com/watch?v=eGasmpz1dvU",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
+}
