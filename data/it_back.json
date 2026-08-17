@@ -1,0 +1,23 @@
+{
+    "id": 76902724,
+    "name": "it back",
+    "author": "eLLiott",
+    "creators": [],
+    "verifier": "Matthijsgd",
+    "verification": "https://www.youtube.com/watch?v=tFHXb6UaVkg",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "ilyasgamesgd",
+            "link": "https://www.youtube.com/watch?v=v7Z1ZZk1XvI",
+            "percent": 100,
+            "hz": "N/A"
+        },
+      {
+            "user": "Cric2",
+            "link": "https://www.youtube.com/watch?v=ZcdfASyizKY&t=66s",
+            "percent": 100,
+            "hz": "120"
+        }
+    ]
+}
