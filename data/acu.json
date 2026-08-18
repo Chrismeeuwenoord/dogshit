@@ -8,6 +8,12 @@
     "percentToQualify": 100,
     "records": [
         {
+            "user": "Lenninomaly",
+            "link": "https://www.youtube.com/watch?v=6SjpeZPda-M",
+            "percent": 100,
+            "hz": "N/A"
+        },
+        {
             "user": "Matthijsgd",
             "link": "https://www.youtube.com/watch?v=14WDENK2Qtk&t=8s",
             "percent": 100,
@@ -69,12 +75,6 @@
         },
       {
             "user": "ilyasgamesgd",
-            "link": "https://www.youtube.com/watch?v=6SjpeZPda-M",
-            "percent": 100,
-            "hz": "N/A"
-        },
-      {
-            "user": "Lenninomaly",
             "link": "https://www.youtube.com/watch?v=6SjpeZPda-M",
             "percent": 100,
             "hz": "N/A"
