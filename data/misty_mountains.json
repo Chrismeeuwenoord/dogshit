@@ -30,6 +30,12 @@
             "link": "https://www.youtube.com/watch?v=zGaaCciBJHc",
             "percent": 100,
             "hz": "N/A"
+        },
+        {
+            "user": "neon",
+            "link": "https://www.youtube.com/watch?v=cyO5di_Yukg",
+            "percent": 100,
+            "hz": "240"
         }
     ]
 }
