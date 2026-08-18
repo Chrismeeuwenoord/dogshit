@@ -8,6 +8,12 @@
     "percentToQualify": 100,
     "records": [
         {
+            "user": "Lenninomaly",
+            "link": "https://www.youtube.com/watch?v=mEUhlZa_IRw",
+            "percent": 100,
+            "hz": "N/A"
+        },
+        {
             "user": "Cric2",
             "link": "https://www.youtube.com/watch?v=mEUhlZa_IRw",
             "percent": 100,
@@ -33,12 +39,6 @@
         },
       {
             "user": "SkyCloudGD31",
-            "link": "https://www.youtube.com/watch?v=mEUhlZa_IRw",
-            "percent": 100,
-            "hz": "N/A"
-        },
-      {
-            "user": "Lenninomaly",
             "link": "https://www.youtube.com/watch?v=mEUhlZa_IRw",
             "percent": 100,
             "hz": "N/A"
