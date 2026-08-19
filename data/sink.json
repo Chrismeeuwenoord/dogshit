@@ -6,5 +6,12 @@
     "verifier": "Druski",
     "verification": "https://www.youtube.com/watch?v=h5oOzl64vZ4",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "SkyCloudGD31",
+            "link": "https://www.youtube.com/shorts/TIHkg99Yd6c",
+            "percent": 100,
+            "hz": "N/A"
+        }
+    ]
 }
