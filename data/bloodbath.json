@@ -48,6 +48,12 @@
             "link": "https://www.youtube.com/watch?v=aCUPC8Ev6mg",
             "percent": 100,
             "hz": "480"
+        },
+        {
+            "user": "bluzy",
+            "link": "https://www.youtube.com/watch?v=dAuUQI-xT_0",
+            "percent": 100,
+            "hz": "360"
         }
     ]
 }
