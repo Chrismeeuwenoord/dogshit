@@ -60,6 +60,12 @@
             "link": "https://www.youtube.com/watch?v=UvLvEh_xN5A",
             "percent": 100,
             "hz": "N/A"
+        },
+        {
+            "user": "reeas",
+            "link": "https://www.youtube.com/watch?v=u6P_wMSqra4",
+            "percent": 100,
+            "hz": "240"
         }
     ]
 }
